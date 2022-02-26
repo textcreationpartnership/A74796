@@ -1,0 +1,245 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ansvver of the Lords and Commons to the Essex petition for a personall treaty, disbanding the army, and setling the kingdome. Also, a commission from the Prince of Wales, for securing and fortifying the town of Berwicke, and other places in the north. And a letter of the whole passages from thence. With a message from the Parliament of Scotland, to the Parliament of England, debated in the House on Thursday last.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74796</idno>
+            <idno type="STC">Thomason E438_16</idno>
+            <idno type="EEBO-CITATION">50811956</idno>
+            <idno type="OCLC">ocm 50811956</idno>
+            <idno type="VID">161656</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74796)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161656)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E438[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ansvver of the Lords and Commons to the Essex petition for a personall treaty, disbanding the army, and setling the kingdome. Also, a commission from the Prince of Wales, for securing and fortifying the town of Berwicke, and other places in the north. And a letter of the whole passages from thence. With a message from the Parliament of Scotland, to the Parliament of England, debated in the House on Thursday last.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B.A.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Dom. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: some staining.</note>
+                  <note>Annotation on Thomason copy: "May 5th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Berwick-upon-Tweed (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Essex (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161656:1" rendition="simple:additions"/>
+            <p>THE ANSVVER OF THE Lords and Commons TO THE ESSEX PETITION FOR A Perſonall Treaty, disbanding the Army, and ſetling the KINGDOME.</p>
+            <p>ALSO, A Commiſſion from the Prince of <hi>Wales,</hi> for ſecuring and fortifying the town of <hi>Berwicke,</hi> and other places in the North. And a Letter of the whole paſſages from thence.</p>
+            <p>With a meſſage from the Parliament of <hi>Scotland,</hi> to the Parliament of <hi>England,</hi> debated in the Houſe on Thurſday laſt.</p>
+            <p>
+               <add>may 5<hi rend="sup">th</hi>
+               </add> 
+               <hi>London,</hi> Printed by <hi>B.A. Anno Dom.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161656:2"/>
+            <pb n="1" facs="tcp:161656:2"/>
+            <head>A LETTER FROM BARWICKE</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>VVE are here in a very ſad condition, for the town being ungarriſoned, and lying open according to the Articles of agreement betweene both King<g ref="char:EOLhyphen"/>doms, a party of Engliſh Cavaliers have taken advantage thereby, and poſſeſſed themſelves thereof, impriſoned the Major, and others wel-affected to the Parl. They brought in ſome chattel, and other proviſions with them, and more is expected. Wee hope the parliament wil take ſome ſpeedy courſe therein, or elſe this town is likely to bee utterly rui<g ref="char:EOLhyphen"/>ned. I was told yeſterday by a man of good repute, that not<g ref="char:EOLhyphen"/>withſtanding the forwardneſſe and preſent poſture; yet one
+<pb n="2" facs="tcp:161656:3"/>of the chiefe of the Nobility told him that many was Ca<g ref="char:EOLhyphen"/>ping and gazing for preferrment, and ſwore they would be all diſappointed of their expectations, for they durſt never warr with England, &amp; the Parliament againſt them, this you may take among the reſt; but I can aſſure you the report ſtill goes of an army amongſt them, the Engliſh daily flock into them, and the ſtreets of <hi>Edinburge</hi> are now more over ſpread with Engliſh then Scots: No newes of the Prince his being there as yet, but dayly expected, divers Troopes lie in the Border of Scotland, what their aime is God knows, but their pretence is for levying of the excize in thoſe parts, they are dayly puarrelling amongſt themſelves, the Kirk as they call it of Scotland ſtill holds out and will not yeeld to an Army, but its feared that this day they reſolve, I mean the Parliament of that Kingdome to vote and enact with<g ref="char:EOLhyphen"/>out the Clergy, the Scots heritours adjacent are for certain endeavouring to get Souldiers for money, they have to my knowledge offered pretty ſumes to diverſe for going along with them; I can aſſure you for truth That at this time there is greater diviſions in Scotland then was at firſt, they are now in three factions, for a Generall, viz. Hamiltons fact<g ref="char:EOLhyphen"/>ion, Argyles and Callenders, Its ſaid the Hamiltons carry it away.</p>
+            <p>The Declaration of the Parliament of Scotland being perfected, was put to the Vote, whether it ſhould be ſent to the Committee of Divines before it paſt, or not, was carryed in the Negative: when it was Voted 81 were for it 38 againſt it, who proteſted and entred the proteſtations; the thing will be Printed, and had by this time been abroad had not the Church delayed their anſwer to Tueſday, but have now declared their diſſent fully and unnanimouſly, being ſenſible of the ſwords getting into ſuch hands, as when they ſee time, will make nothing of Covenant, nor o<g ref="char:EOLhyphen"/>ther
+<pb n="3" facs="tcp:161656:3"/>aſſurances given, and that they who have been eſteemed hitherto the moſt religious there, and in Englard, will be<g ref="char:EOLhyphen"/>come a prey to both popiſh and prelaticall party; This is believe it, the apprehenſion of thoſe in Scotland, many of whom ſtick not to ſay, they ſee no viſible deliverance from ruine, but the Army in England, what ever you think and ſay in the South of it making good the old maxime of the multitude, to diſlike what ever is preſent; and if there were none other arguments to ground the former expreſſed feares Scotland this one were enough that 250 Barons or Lards have met at Lithgow, and other places, within view of Parliament, and ſo no doubt approved by many, within view of Parliament, and ſo no doubt approved by many, who write Letters to the Inhabitants to riſe for the defence of the King, Religion, and the Church, the two latter being the golden out ſide of all riſings: one of them was ſent for to Parliament who was not afraid to come; the other ſent to him not to anſwer without them, they juſtifie their pro<g ref="char:EOLhyphen"/>ceedings by an old act of Parliament; The buſineſſe for<g ref="char:EOLhyphen"/>merly mentioned of a Miniſters refuſing to read the Mini<g ref="char:EOLhyphen"/>ſters Declaration is grown to that heighth, They to have ſentence paſt, others to have it forburn; That its like to bring in queſtion, whether the Church Sanc Parliament, can publiſh or injoyn; the diſſent of ſo many of Parliament, and the Divines all of them, to the great Declaration, not at all im peding the publication, but out it comes.</p>
+            <closer>
+               <dateline>Barwick <date>1. of May, 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:161656:4"/>
+            <opener>
+               <dateline>
+                  <date>Die Iovis 4. May 1648.</date>
+               </dateline>
+            </opener>
+            <p>The Parl. had ſome debate on a Declaration and Propoſi<g ref="char:EOLhyphen"/>tion from the Parl. of Scotland, brought by Col. <hi>Marſhall,</hi> the particulars whereof are reduced to theſe heads.</p>
+            <p n="1">1. <hi>That his Majeſty may come to</hi> London, <hi>or ſome of his houſes neer the City, and there to remaine in ho<g ref="char:EOLhyphen"/>nour, freedome, and ſafety.</hi>
+            </p>
+            <p n="2">2. <hi>That reparations be made for his carrying away from Holdenby; or ſatisfaction, by puniſhing them that did it.</hi>
+            </p>
+            <p n="3">3. <hi>That the Presbytery be ſetled, and Sectaries pu<g ref="char:EOLhyphen"/>niſhed.</hi>
+            </p>
+            <p n="4">4. <hi>That the Army under command of the Lord</hi> Fair<g ref="char:EOLhyphen"/>fax <hi>be disbanded.</hi>
+            </p>
+            <p n="5">5, <hi>That the City of</hi> London <hi>have all priviledges made good to them.</hi>
+            </p>
+            <p n="6">6. <hi>That the Covenant of both Kingdomes be injoy<g ref="char:EOLhyphen"/>ned univerſally.</hi>
+            </p>
+            <p n="7">7. <hi>That all Members of Parliament, who have faithfully ſerved, be reſtored.</hi>
+            </p>
+            <p>Letters came further out of the North as followeth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="letter">
+                        <opener>
+                           <salute>Sir</salute>
+                        </opener>
+                        <p>I Beleeve you have heard that Barwick is ſecured which we heare to be thus Sir Thomas Glenh<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>m with a party of Horſe came to Barwick and the Town perceiving them ap<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>roaching be<g ref="char:EOLhyphen"/>gan to gather to the bridge, and make ſome oppoſition asking him who they were for &amp;c. and why they a<gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>emp<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ed to come into that town, to which it was anſwered they had a commiſſion from the Prince of Wale<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> whereupon they had preſent admittance and there are come to them ſince and have brought in proviſion, which is all for the preſent from, Your affectionate Friend.</p>
+                        <closer>
+                           <signed>T. S.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <pb n="5" facs="tcp:161656:4"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="letter">
+                        <opener>
+                           <dateline>
+                              <date>Thurſday 4. May. 1648.</date>
+                           </dateline>
+                        </opener>
+                        <p>A petition was this day preſented to the Lords by Sir <hi>VVil<g ref="char:EOLhyphen"/>liam Hix,</hi> in the name of the Gent. and Free-holders of the County of <hi>Eſſex;</hi> at the preſenting of which petition, the ſaid Sir <hi>VV. Hix</hi> made a ſhort ſpeech to this effect.</p>
+                        <p>
+                           <hi>That there was a petition of about 20000. of the Inhabitants of that County, to which there would have been many more hands, if more time had been ſpent therein;</hi> the petition was grounded upon theſe generall heads. <hi>That the Country might be eaſed of their heavy taxes and burtheus, and that the King<g ref="char:EOLhyphen"/>dome be ſetled in a firm and lasting peace, and as the meanes conducing thereto, they pray, that there may be a perſonall trea<g ref="char:EOLhyphen"/>ty with the King, and the Army disbanded, &amp;c.</hi>
+                        </p>
+                        <p>This petition was read in the Houſe, and after the Petitio<g ref="char:EOLhyphen"/>ners had withdrawn, they were called in again, and the Earl of <hi>Mancheſter</hi> gave them an anſwer to this effect, <hi>viz.</hi>
+                        </p>
+                        <p>Gentlemen, <hi>I am commanded by the Lords to return you thanks for your good affections expreſsed in your petition to the Parl. and Kingdom; and they do aſſure you, that they <gap reason="illegible" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap>ll ſpeedi<g ref="char:EOLhyphen"/>ly and effectually take the ſaid petition into ſerious conſiderati<g ref="char:EOLhyphen"/>on and do what is poſſible for ſetling the Kingdome in a firme and lasting peace.</hi>
+                        </p>
+                        <p>Wherupon Sir <hi>William Hix</hi> g<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ve their Lordſhips hum<g ref="char:EOLhyphen"/>ble thanks, in the name of all the Petitioners, and did aſſure their Lordſhips, that whatſoever had been ſaid, or conceived of that petition, yet the ſenſe and intent of that County was to aſſiſt and maintain the Parliament and priviledge there<g ref="char:EOLhyphen"/>of, according to their Covenant.</p>
+                        <p>The petition before mentioned was alſo read in the houſe of Commons, and after ſome d<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>bate, the petitioners had an<g ref="char:EOLunhyphen"/>ſwer there to the ſame effect, as they had from the Lords, as as you will perceive by theſe enſuing Lines.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="6" facs="tcp:161656:5"/>
+            <p> The Anſwer from the Commons was thus.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="letter">
+                        <opener>
+                           <salute>Gentlemen,</salute>
+                        </opener>
+                        <p>THis houſe gives you thanks for expreſſing your good affection and deſires for ſetling the Kingdom, which is the preſent buſineſſe of the Houſe, and in which they are reſolved with all poſſible ſpeed to go forward, and the reſt of the petition relating thereunto; the petitioners were deſired, being by eſtimation perſonally there about two thouſand, to depart, with aſſurance, that the ſeveral par<g ref="char:EOLhyphen"/>ticulars of the ſaid petition ſhould forthwith be taken into ſerious conſideration.</p>
+                        <closer/>
+                        <postscript>
+                           <p>Imprimatur</p>
+                           <closer>
+                              <signed>G. M.</signed>
+                           </closer>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
